@@ -1,0 +1,85 @@
+
+.mt-4 {
+	margin-top: 4rem;
+}
+
+.mt-6 {
+	margin-top: 6rem;
+}
+.mt-8 {
+	margin-top: 8rem;
+}
+
+h3 {
+	font-weight: 400;
+}
+
+h4 {
+	font-weight: 400;
+}
+
+h5 {
+	font-weight: 500;
+}
+.jumbotron {
+	background-color: #db2020;
+	background-image: url('../images/kub-main-red.jpg');
+	background-size: cover;
+	background-position: 20% 30%;
+
+}
+
+.navbar {
+	background: black;
+}
+
+.navbar-nav {
+	background-color: black;
+}
+
+.tiny-text {
+	font-size: 10px;
+}
+
+.bg-blk {
+	background: black;
+}
+
+.bg-red {
+	background: darkred;
+}
+
+.no-dec {
+	list-style-type: none;
+}
+
+.hide-sm {
+	display: none;
+}
+
+.stan-small {
+	width: 200px;
+	float: right;
+	padding-left: 1rem;
+}
+
+.badge {
+	font-weight: 400;
+}
+
+.footer a {
+	color: black;
+}
+
+@media (min-width: 992px) {
+	.hide-sm {
+		display: block;
+	}
+}
+
+@media (min-width: 1200px) { 
+	.py-xl-8 {
+		padding: 8rem 0 8rem 0;
+	}
+ }
+
